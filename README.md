@@ -1,4 +1,4 @@
-# backtracking_maze_generator
+# Backtracking Maze Generator
 A backtracking DFS(Depth First Search) algorithm for maze generation in Processing
 
 [Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
