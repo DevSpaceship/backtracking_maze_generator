@@ -30,7 +30,7 @@ class Cell
   {
     for(Cell neighbor : neighbors)
     {
-      if(neighbor.visited == false){return true;}
+      if(!neighbor.visited){return true;}
     }
     return false;
   }
